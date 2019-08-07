@@ -10,6 +10,7 @@ public class HelloMian {
 		
 		HelloWorld helloWorld2 = new HelloWorld();
 		helloWorld2.sayHello();
+		
 	}
 	
 }
